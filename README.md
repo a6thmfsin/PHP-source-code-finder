@@ -4,4 +4,4 @@ URL looking for PHP source code, atm its searching for <?php, soon might add mor
 It have a counter counting how long the process takes, about 450 URLs takes about 5 mins. Even tho a bug bounty program probably makes it a informative unless there are many which are rare, the tool can be good to craft your own exploits 
 especially on lower versions of PHP. 
 
-[http://url/to/img.png](https://github.com/a6thmfsin/PHP-source-code-finder/blob/main/sourcecodefinderphp.png)
+[!alt text](https://github.com/a6thmfsin/PHP-source-code-finder/blob/main/sourcecodefinderphp.png)
